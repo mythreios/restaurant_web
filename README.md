@@ -10,6 +10,7 @@ Ekstra Kaynaklar : Express, TailwindCSS
 
 
 ----- İçerik -----
+
 İçerik : Kayıt Olma, Hesaba Giriş Yapma, Hesaptan Çıkış Yapma, Sepete Ürün Ekleme, Sisteme Ürün Ekleme, Sistemden Ürün Çıkarma
 
 ( Sisteme Ürün Ekleme, Sistemden Ürün Çıkarma ) - Postman uygulaması ile basit ve anlaşılabilir şekilde veri eklenmesi yapılır.
