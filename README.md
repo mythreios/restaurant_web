@@ -13,6 +13,6 @@ Ekstra Kaynaklar : Express, TailwindCSS
 
 İçerik : Kayıt Olma, Hesaba Giriş Yapma, Hesaptan Çıkış Yapma, Sepete Ürün Ekleme, Sisteme Ürün Ekleme, Sistemden Ürün Çıkarma
 
-( Sisteme Ürün Ekleme, Sistemden Ürün Çıkarma ) - Postman uygulaması ile basit ve anlaşılabilir şekilde veri eklenmesi yapılır.
+( Sisteme Ürün Ekleme, Sistemden Ürün Çıkarma ) - Postman uygulaması ile basit ve anlaşılabilir şekilde veri işlemi yapılır.
 
 Her login ve logout işlemlerinde hesap tokenleri değişir. Bu sayede izinsiz bir ürün ekleme, sipariş verme gibi durumlardan ortadan kalkar.
