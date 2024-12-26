@@ -5,8 +5,10 @@ Vize ve final projesidir.
 Konu : Restorant Sipariş Websitesi
 
 Kullanılan Diller : JavaScript
-Kullanılan Framework : React.js
-Ekstra Kaynaklar : Express, TailwindCSS
+
+Kullanılan Framework : ReactJS
+
+Ekstra Kaynaklar : Express ( Server ), TailwindCSS
 
 
 ----- İçerik -----
